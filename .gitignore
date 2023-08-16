@@ -1,1 +1,4 @@
-node_modules
+assignment1/node_modules
+assignment2/node_modules
+assignment1/package-lock.json
+assignment2/package-lock.json
