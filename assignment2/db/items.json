@@ -1,0 +1,20 @@
+[
+	{ "name": "Jordan 4", "Price": 200000, "Size": "medium", "id": 1 },
+	{
+		"name": "New Balance",
+		"Price": 250000,
+		"Size": "large",
+		"id": 2,
+		"size": "medum"
+	},
+	{ "name": "Nike Airforce low", "Price": 120000, "Size": "small", "id": 3 },
+	{ "name": "Nike low Tennis", "Price": 90000, "Size": "medium", "id": 4 },
+	{ "name": "Timberland", "Price": 290000, "Size": "large", "id": 5 },
+	{ "name": "Timberland", "Price": 290000, "Size": "large", "id": 6 },
+	{
+		"name": "Nike Trainer Special Edition",
+		"Price": 600000,
+		"Size": "large",
+		"id": 7
+	}
+]
